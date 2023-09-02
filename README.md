@@ -1,2 +1,2 @@
 # contact-manager-app
-This MERN stack app enables users to securely create accounts, store contacts online, and ensures data security through authentication.
+This application is developed using the MERN (MongoDB, Express.js, React, Node.js) stack, providing users with a platform to create and manage their online accounts while securely storing their contact information. The core features of this application include robust authentication mechanisms to ensure the security of user data. Users can easily create and maintain their accounts, and the application facilitates the convenient storage and organization of their contact details, offering a seamless and secure user experience.
